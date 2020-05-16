@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Unlaunch Blog</title>
+    
+    
+    <description>Official blog of Unlaunch.io</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Welcome to Unlaunch Blog</title>
+        <description>
+          Release Early, Release Often - 
+          Welcome to the official blog for Unlaunch! Unlaunch is built on a mission to inspire engineering teams all over the world to build and deliver amazing products. It enables creators to release great features to their users faster, with less risk, and measure expected business impact quickly. Unlike other tools...
+        </description>
+        <pubDate>Fri, 08 May 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2020-05-08-welcome-to-unlaunch/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-05-08-welcome-to-unlaunch/</guid>
+      </item>
+    
+  </channel>
+</rss>

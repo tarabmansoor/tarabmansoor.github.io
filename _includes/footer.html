@@ -1,0 +1,30 @@
+<footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      {% include social-networks-links.html %}
+      {% if page.footer-extra %}
+        <div class="footer-custom-content">
+          {% include {{ page.footer-extra }} %}
+        </div>
+      {% endif %}
+      <p class="copyright text-muted">
+     
+        <a href="{{ '' | absolute_url }}privacy">Privacy Policy</a>
+        &nbsp;&bull;&nbsp;
+       
+        <a href="{{ '' | absolute_url }}terms-of-service">Terms of Service</a>
+        
+
+        &nbsp;&bull;&nbsp;
+
+        <a href="{{ '' | absolute_url }}cookie-statement">Cookie Statement</a>
+
+      </p>
+      <p class="theme-by text-muted">
+        (C) {{ site.time | date: '%Y' }} Unlaunch.io
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
