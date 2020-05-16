@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Welcome to Doc Musings Blog
+title: Second Post Doc Musings Blog
 subtitle: Welcome to Doc Musings Blog. The original source of information.
-description: Welcome to Doc Musings Blog. The original source of information.
+description: Second Doc Musings Blog. The original source of information.
 author: tarab
-image: /assets/img/featured/welcome-to-unlaunch.png
+image: /assets/img/featured/baby-playing.jpg
 tags: [general]
 ---
 
@@ -17,4 +17,3 @@ You can go back to [Google](https://www.google.com) if you like.
 ## Quote
 
 > This a quote
-
