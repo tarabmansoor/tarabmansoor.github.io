@@ -4,7 +4,7 @@ title: Welcome to Doc Musings Blog
 subtitle: Welcome to Doc Musings Blog. The original source of information.
 description: Welcome to Doc Musings Blog. The original source of information.
 author: tarab
-image: /assets/img/featured/41cBoYTuRmL._AC_.png
+image: /assets/img/featured/41cBoYTuRmL._AC_.png.
 tags: [general]
 ---
 
