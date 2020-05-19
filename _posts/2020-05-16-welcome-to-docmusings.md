@@ -8,12 +8,10 @@ image: /assets/img/featured/welcome-to-unlaunch.png
 tags: [general]
 ---
 
-Hey everyone, welcome to **docmusings**. I will be musing over my most beloved subject- Child Development. We will take a tour through the magical and complex world of a child's mind and try to unravel the mysteries of the universe of toddlers.. well, we can try. 
+Hey everyone, welcome to **docmusings**. I will be musing over my most beloved subject- Child Development. Here, we will take a tour through the magical and complex world of a child's mind and learn more about how it develops. I am a Medical Doctor with an avid interest in child developmental and have been a researcher in the subject for the past six years. Recently having had a child of my own, I Often find myself searching deep down in my mind for evidence based answers to some of the most common as well as intimidating parenting questions.my next blod will start from the beginning of child development and pay. Stay tuned!
 
 
 ---
 
-## Quote
 
-> This a quote
 
